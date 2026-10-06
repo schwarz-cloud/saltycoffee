@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 500" fill="none">
+  <rect width="420" height="500" rx="40" fill="#C24B32"/>
+  <g fill="#F4E9D8">
+    <text x="210" y="86" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="78" font-weight="900">SALTY</text>
+  </g>
+  <g stroke="#F4E9D8" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M108 168c18-58 52-88 102-92 22-2 40 12 54 30 14-22 36-36 62-32 44 6 70 48 76 92 4 28-8 50-28 62"/>
+    <path d="M142 176c26-42 56-54 88-44 18 6 32 22 40 40"/>
+    <path d="M208 128c22-10 48-6 64 16"/>
+    <path d="M86 268c-6-56 24-132 108-144 96-12 168 52 164 140-4 100-58 168-154 168S90 364 86 268Z"/>
+    <path d="M122 286c8 20 8 42 0 58"/>
+    <path d="M300 288c-8 20-8 42 0 58"/>
+    <ellipse cx="164" cy="262" rx="20" ry="11"/>
+    <ellipse cx="252" cy="266" rx="22" ry="12"/>
+    <path d="M184 262c6 8 14 10 24 2"/>
+    <path d="M274 266c6 8 14 9 22 1"/>
+    <path d="M206 294c10 26 32 28 48-4"/>
+    <path d="M212 336v30"/>
+    <path d="M196 388c12 16 36 18 52 2"/>
+  </g>
+  <circle cx="148" cy="308" r="18" fill="#E07A6A"/>
+  <circle cx="286" cy="312" r="18" fill="#E07A6A"/>
+</svg>
